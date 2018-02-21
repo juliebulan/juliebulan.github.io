@@ -2,7 +2,7 @@ body {
     margin: 40px;
     font-family: "Candara", serif;
     font-size: 12pt;
-    background-image: url(http://www.womanthology.co.uk/wp-content/uploads/2014/06/Architecture.jpg);
+    background-image: url("http://www.womanthology.co.uk/wp-content/uploads/2014/06/Architecture.jpg");
 }
 
 header {
