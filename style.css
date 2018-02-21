@@ -25,6 +25,13 @@ header span {
 section h2 {
     font-family: "Trajan Pro", serif;
     font-size: 14pt;
+    color: white;
+}
+
+secction h1{
+    font-family: "Verdana";
+    font-size: 12pt;
+    color: white;
 }
 
 section p {
