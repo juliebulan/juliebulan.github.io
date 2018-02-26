@@ -3,6 +3,7 @@ body {
     font-family: "Candara", serif;
     font-size: 12pt;
     background-image:url("http://ak0.picdn.net/shutterstock/videos/12889550/thumb/1.jpg");
+    height: 100%;
 }
 
 header {
