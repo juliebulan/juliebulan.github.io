@@ -8,6 +8,9 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+div{
+    border-bottom: 6px solid blue;
+}
 
 header {
     font-family: "Trajan Pro", serif;
@@ -32,7 +35,6 @@ header span {
 section h2 {
     font-family: "Trajan Pro", serif;
     font-size: 14pt;
-    border-bottom: 6px solid blue;
 }
 
 
