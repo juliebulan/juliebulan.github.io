@@ -19,6 +19,8 @@ header {
 
 img {
     border-radius: 50%;
+    border-style: solid;
+    border-color: blue;
 }
 header h1 {
     font-size: 20pt;
